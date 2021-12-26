@@ -25,6 +25,7 @@
 
 ### 人声
 | 女声 | 男声 |
+| ---- | ----- |
 | 女高音(soprano) | 男高音(tenor) |
 | 次女高音(mezzo-soprano) | 男中音(baritone) |
 | 女中音(alto 或 contralto ) | 男低音(bass) |
