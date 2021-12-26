@@ -16,3 +16,6 @@
 | mezzo forte | mf | 中强 |
 | forte | f | 强 |
 | fortissimo | ff | 中强 |
+
+### 音色
+音色 明亮、阴暗、辉煌、圆润、饱满
