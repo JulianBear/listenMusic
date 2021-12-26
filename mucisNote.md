@@ -10,3 +10,8 @@
 ### 力度
 * 术语         缩写         含义      
 pianissimo    pp           很弱
+piano         p            弱
+mezzo piano   mp           中弱
+mezzo forte   mf           中强
+forte         f            强
+fortissimo    ff           中强
