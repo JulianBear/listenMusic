@@ -29,3 +29,8 @@
 | 女高音(soprano) | 男高音(tenor) |
 | 次女高音(mezzo-soprano) | 男中音(baritone) |
 | 女中音(alto 或 contralto ) | 男低音(bass) |
+
+---
+## 第三章 节奏
+###拍子
+由一个强拍和一个或多个弱拍的组合重复出现，这种强弱节拍的有规律组合称为拍子(meter)。
