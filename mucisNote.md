@@ -8,10 +8,11 @@
 3、任意两个乐音之间的音高“距离”称为**音程**（interval）。两个乐音被**八度**音程分开时，他们听上去会很相似。
 
 ### 力度
-* 术语         缩写         含义      
-pianissimo    pp           很弱
-piano         p            弱
-mezzo piano   mp           中弱
-mezzo forte   mf           中强
-forte         f            强
-fortissimo    ff           中强
+| 术语 | 缩写 | 语法 |   
+| ---- | ---- | ---- |
+| pianissimo | pp | 很弱 | 
+| piano | p | 弱 |
+| mezzo piano | mp | 中弱 |
+| mezzo forte | mf | 中强 |
+| forte | f | 强 |
+| fortissimo | ff | 中强 |
